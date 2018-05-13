@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+    <defs>
+        <path id="a" d="M0 0h40v40H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(-1 -1)">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <g stroke="#2140D2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" mask="url(#b)">
+            <g transform="translate(4 4)">
+                <circle cx="3" cy="3" r="3"/>
+                <circle cx="29" cy="3" r="3"/>
+                <circle cx="3" cy="29" r="3"/>
+                <circle cx="29" cy="29" r="3"/>
+            </g>
+        </g>
+        <path stroke="#2140D2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.91 10.182A17.916 17.916 0 0 0 2 20c0 3.601 1.057 6.955 2.879 9.769m5.348 5.35A17.916 17.916 0 0 0 20 38c3.602 0 6.957-1.058 9.77-2.88m.035-30.218A17.916 17.916 0 0 0 20 2c-3.67 0-7.083 1.098-9.929 2.984M35.15 29.724A17.899 17.899 0 0 0 38 20m-.166-2.457a17.97 17.97 0 0 0-.078-.516m-.754-2.951a17.93 17.93 0 0 0-1.907-3.885" mask="url(#b)"/>
+        <g stroke="#2140D2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" mask="url(#b)">
+            <path d="M14.338 15.234V10.62h7.693"/>
+            <path d="M21.362 8l2.763 2.444-2.763 2.836"/>
+        </g>
+        <g stroke="#2140D2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" mask="url(#b)">
+            <path d="M25.266 14.838h4.613v7.693"/>
+            <path d="M32.5 21.862l-2.444 2.763-2.836-2.763"/>
+        </g>
+        <g stroke="#2140D2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" mask="url(#b)">
+            <path d="M14.734 25.162H10.12V17.47"/>
+            <path d="M7.5 18.138l2.444-2.763 2.836 2.763"/>
+        </g>
+        <g stroke="#2140D2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" mask="url(#b)">
+            <path d="M25.662 24.766v4.613H17.97"/>
+            <path d="M18.638 32l-2.763-2.444 2.763-2.836"/>
+        </g>
+    </g>
+</svg>
