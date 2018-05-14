@@ -21,7 +21,7 @@ export default {
 </script>
 
 <style>
-  @import url('./assets/font.css');
+  @import url('/src/assets/font.css');
   @font-face {
     font-family: "Proxima Nova";
     src: url('/src/assets/fonts/proxima-nova-regular.ttf');
