@@ -21,15 +21,15 @@ export default {
 </script>
 
 <style>
-  @import url('/src/assets/font.css');
+  @import url('/dibayarin//src/assets/font.css');
   @font-face {
     font-family: "Proxima Nova";
-    src: url('/src/assets/fonts/proxima-nova-regular.ttf');
+    src: url('/dibayarin/src/assets/fonts/proxima-nova-regular.ttf');
     font-weight: normal;
   }
   @font-face {
     font-family: "Proxima Nova";
-    src: url('/src/assets/fonts/proxima-nova-semibold.ttf');
+    src: url('/dibayarin/src/assets/fonts/proxima-nova-semibold.ttf');
     font-weight: bold;
   }
   * {
